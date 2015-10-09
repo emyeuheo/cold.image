@@ -1,6 +1,6 @@
 # cold.image
-C's Image Lib
+An simple image processing lib
 
-For learning algorithm
+For learning algorithm purpose
 
-Highly recommend not using in real project
+Highly recommend not using in real project ( very slow :( )
